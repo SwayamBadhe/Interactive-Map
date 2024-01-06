@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.3"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "eventing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "This repository contains a Node.js project that utilizes event handling and MongoDB.",
+  "devDependencies": {}
+}
